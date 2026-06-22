@@ -48,8 +48,10 @@ Software Developer with hands-on experience building serverless systems, full-st
   
 ## 📫 Connect With Me
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vytla-anjani-padma-sri-3209a8254)
-  [![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:padmasrivytla@gmail.com)
+   
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vytla-anjani-padma-sri-3209a8254)
+  [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:padmasrivytla@gmail.com)
+  
 
 ---
   
