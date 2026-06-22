@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vytla Anjani Padma Sri
   
-Software Developer with hands-on experience building serverless systems, full-stack applications, and automation tools.  Recently completed a 6-month SDE Internship at Amazon where I built an automated latency governance tool and designed client authorization with dynamic test selection for a serverless control plane.
-  
+Software Developer with hands-on experience building serverless systems, full-stack applications, and automation tools. Completed a 6-month SDE Internship at Amazon. 
+
 ---
   
 ## 💼 Experience
@@ -48,9 +48,17 @@ Software Developer with hands-on experience building serverless systems, full-st
   
 ## 📫 Connect With Me
   
-🔗 [LinkedIn](https://www.linkedin.com/in/vytla-anjani-padma-sri-3209a8254)
+  <p>
+    <a href="https://www.linkedin.com/in/vytla-anjani-padma-sri-3209a8254">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:padmasrivytla@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-red?style=social&logo=gmail" alt="Gmail"/>
+    </a>
+  </p>
   
-📧 [padmasrivytla@gmail.com](mailto:padmasrivytla@gmail.com)
+
   
 
 
