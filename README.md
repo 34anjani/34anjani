@@ -23,7 +23,7 @@ Software Developer with hands-on experience building serverless systems, full-st
   
 ## 🛠️ Tech Stack
   
-  | Category | Technologies |
+  | Categories | Technologies |
   |----------|-------------|
   | Languages | Python, C, C++, Java, JavaScript, TypeScript, Go |
   | Frontend | React.js, HTML, CSS, FullCalendar, Chart.js |
@@ -48,8 +48,10 @@ Software Developer with hands-on experience building serverless systems, full-st
   
 ## 📫 Connect With Me
   
-[![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/vytla-anjani-padma-sri-3209a8254?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-[![](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](padmasrivytla@gmail.com)
+[![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vytla-anjani-padma-sri-3209a8254)
+[![](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:padmasrivytla@gmail.com)
+  
+
 
 
 <a href="https://www.linkedin.com/in/vytla-anjani-padma-sri-3209a8254?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
