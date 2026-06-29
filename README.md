@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vytla Anjani Padma Sri
 
-I'm a Software Engineer passionate about building scalable, user-focused applications and solving real-world problems through technology. I enjoy designing reliable backend systems, developing full-stack applications, and continuously learning new technologies to build impactful software.
+I'm a Software Engineer passionate about building scalable, user-focused applications and solving real-world problems through technology. I enjoy developing reliable backend systems, building full-stack applications, and continuously learning new technologies to create impactful software.
 
 ---
   
@@ -8,14 +8,14 @@ I'm a Software Engineer passionate about building scalable, user-focused applica
   
 **SDE Intern @ Amazon**
 - **DEX Control Plane - Client Authorization & Dynamic Test Selection**
-  - Designed and implemented client authorization for a serverless control plane enabling secure access for external clients by creating a shared IAM role with trust policies in AWS CDK, extracting caller identity from ARNs at the Lambda layer, validating session to program mappings, and adding authorization Choice states in Step Functions that fail unauthorized requests before workflow execution.
+  - Designed and implemented client authorization for a serverless control plane enabling secure access for clients by creating a shared IAM role with trust policies in AWS CDK, extracting caller identity from ARNs at the Lambda layer, validating session to program mappings, and adding authorization Choice states in Step Functions that fail unauthorized requests before workflow execution.
   - Implemented Dynamic Test Selection feature replacing hardcoded integration tests with program specific test routing by creating test templates across 3 regions (NA, EU, FE), registering them in the test executor to return program specific tests based on the workflow input.
   
 - **Latency Guardrail Tool**
   - Implemented a POC of Latency Governance report for PEPPA SKYDEN monitoring 30+ tenants across PIP, SIP, PIP Document and SIP Document APIs, computing Latency, Week-over-Week diff, Month-over-Month diff, Contribution %, Baseline Diff and Baseline Date metrics by querying CloudWatch data across AWS regions.
 - **Additional Contributions**
-  - Implemented per-client API metrics tracking by building a custom interceptor that captures client identity from AAA CloudAuth URNs and emits success/failure metrics per caller, enabling rapid identification of problematic clients during traffic spikes and reducing incident response time.
-  - Implemented immutable patch stage versioning by adding a freeze mechanism that locks G2S2 stage versions immediately after creation, eliminating calls to mutable stage versions that were causing availability drops in production.
+  - Implemented per-client API metrics tracking by building a custom interceptor that captures client identity from AAA CloudAuth URNs and emits success/failure metrics per caller, providing granular visibility into client-specific API behavior for monitoring and debugging.
+  - Implemented immutable patch stage version by adding a freeze mechanism that locks G2S2 stage versions immediately after creation, eliminating calls to mutable stage versions that were causing availability drops in production.
   - Reconciled a drifted CI/CD pipeline with its Infrastructure-as-Code source by auditing manual customizations across 7 production stages, backporting all manual pipeline changes into the LPT package without losing existing configurations and adding deployment safeguards to restore pipeline-as-code governance.
       
 ---
@@ -43,14 +43,6 @@ I'm a Software Engineer passionate about building scalable, user-focused applica
   | [SirenSight](https://github.com/34anjani/SirenSight) | AI-based eye closure detection and drowsiness alert system | Python, OpenCV, Dlib |
   | [RoomNest](https://github.com/34anjani/RoomNest) | Hostel accommodation management with role-based auth | C++, File I/O |
   
----
-## 📊 GitHub Stats
-
-![Anjani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=34anjani&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=34anjani&layout=compact)
-
-
 ---
 
 ## 📫 Connect With Me
